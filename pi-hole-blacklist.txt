@@ -1,0 +1,50 @@
+# Lista de Bloqueio de Serviços de Streaming
+# Última atualização: 06-09-2024
+
+# Netflix
+0.0.0.0 netflix.com
+0.0.0.0 netflix.net
+0.0.0.0 nflxext.com
+0.0.0.0 nflxso.net
+0.0.0.0 nflxvideo.net
+
+# Amazon Prime Video
+0.0.0.0 primevideo.com
+0.0.0.0 primevideo.com.br
+0.0.0.0 amazonvideo.com
+0.0.0.0 atv-ext.amazon.com
+0.0.0.0 atv-ps.amazon.com
+
+# Disney+
+0.0.0.0 disneyplus.com
+0.0.0.0 dssott.com
+0.0.0.0 bamgrid.com
+0.0.0.0 disney.com
+
+# Spotify
+0.0.0.0 spotify.com
+0.0.0.0 spotifycdn.com
+0.0.0.0 scdn.co
+
+# YouTube
+0.0.0.0 youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytstatic.l.google.com
+
+# HBO Max
+0.0.0.0 hbomax.com
+0.0.0.0 hbonow.com
+0.0.0.0 hbogo.com
+0.0.0.0 hbo.com
+0.0.0.0 hbomaxcdn.com
+
+# Hulu
+0.0.0.0 hulu.com
+0.0.0.0 hulustream.com
+
+# Apple TV+
+0.0.0.0 apple.com
+0.0.0.0 mzstatic.com
+0.0.0.0 itunes.apple.com
